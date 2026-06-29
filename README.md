@@ -5,31 +5,31 @@ Welcome to the respository for the project: **Artifical intelligence tools in yo
 This project aims to review the effectiveness and safety of AI-based tools used in the treatment of mental ill-health in young people. As this is a new and rapidly expanding area of clinical research, this project uses living systematic review methodology to regularly identify and incorporate new studies as they are published. Here you will find the review protocol, search strategies and characteristics of included studies.
 
 ### Protocol
-Here you will find a link to the [Review Protocol](Protocol.md) 
+Here you will find a link to the [Review Protocol](review-rotocol.md) 
 
 The protocol includes the review aims and core review methods including defintions, inclusion/exclusion criteria, search and screening protocols, data extraction and analysis plans.
 
 ### Search strategies
 Here you will find links to the search strategies used in each of the 6 databases, along with the platforms used to access them:
 
-[Embase](), [Medline](), [PsycInfo]() via Ovid
+[Embase](Embase-search-strategy.csv), [Medline](Medline-search-strategy.csv), [PsycInfo](PsycInfo-search-strategy.csv) via Ovid
 
-[Cochrane Central]() - via https://www.cochranelibrary.com/advanced-search
+[Cochrane Central](Cochrane-CENTRAL-search-strategy.csv) - via https://www.cochranelibrary.com/advanced-search
 
-[Association for Computer Machinery - Digital Library]() - via https://dl.acm.org/search/advanced
+[Association for Computer Machinery - Digital Library](ACM-DL-search-strategy.csv) - via https://dl.acm.org/search/advanced
 
-[Orygen's Evidence Map]() - via https://orygen.org.au/Training/Evidence-Finder
+[Orygen's Evidence Map](Evidence-Map-search-strategy.csv) - via https://orygen.org.au/Training/Evidence-Finder
 
 **Date of last search:** 2026-04-30
 
 ### Characteristics of studies
-Here you will find a link to the basic characterstics of each included study - [View Dataset]()
+Here you will find a link to the basic characterstics and outcome data of each included study - [View Dataset](Dataset.csv)
 
 
 ### Contributors
 Alan Bailey#, Alicia Randell#, Zoe Nikakis, Dr. Cali Bartholomeusz*
 
-#contributed jointly as first author; *senior author
+#joint first author contributions; *senior author
 
 **Affiliations:**
 
@@ -40,4 +40,4 @@ Centre for Youth Mental Health, University of Melbourne, Parkville, Australia
 Parkville Youth Mental Health and Wellbeing Service, Parkville, Australia
 
 ### How to cite this project
-Bailey, A., Randell, A., Nikakis, Z., & Bartholomeusz, C (2026). Artificial intelligence in youth mental health - a living systematic review. Data repository. https://github.com/Orygen-ESAM/test
+Bailey, A., Randell, A., Nikakis, Z., & Bartholomeusz, C (2026). Artificial intelligence in youth mental health - a living systematic review. Data repository. https://github.com/Orygen-ESAM/LSR_AI-in-YMH

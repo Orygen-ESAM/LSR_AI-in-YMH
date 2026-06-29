@@ -60,7 +60,7 @@ Use of machine learning techniques for data-analysis only
 
 Stand-alone prognostic/prediction models that do not inform treatment selection.
 
-Scribes, journaling tools or other clinican-facing support tools.
+Scribes, journaling tools or other clinician-facing support tools.
 
 ### Comparator(s) or control(s)
 **Included**

@@ -1,0 +1,161 @@
+APA PsycInfo,
+LINE,TERMS
+1,exp Artificial Intelligence/
+2,exp machine learning/
+3,exp Deep Neural Networks/
+4,natural language processing/
+5,generative artificial intelligence/
+6,exp intelligent agents/ or exp conversational agents/ or chatbots/
+7,"artificial intelligence.ti,ab,id."
+8,"machine learning.ti,ab,id."
+9,"(AI algorithm* or ML algorithm*).ti,ab,id."
+10,"neural network*.ti,ab,id."
+11,"((deep or supervised or unsupervised) adj learning).ti,ab,id."
+12,"((rule-based or expert or recommender or ""decision support"") adj2 system*).ti,ab,id."
+13,"(large language model* or LLM).ti,ab,id."
+14,"(natural language process* or NLP or natural language detect* or natural language identifi*).ti,ab,id."
+15,or/1-14
+16,"(chatbot* or chat-bot* or conversational agent*).ti,ab,id."
+17,"(chat-GPT or chatgpt or GPT4 or GPT-4 or GPT3 or GPT-3 or ""generative pre-train* transformer"").ti,ab,id."
+18,or/16-17
+19,"(intelligent adj2 (bot* or agent* or assistant* or avatar* or system)).ti,ab,id."
+20,"(social adj2 (bot* or agent* or assistant* or avatar*)).ti,ab,id."
+21,"(virtual adj2 (bot* or agent* or assistant* or avatar*)).ti,ab,id."
+22,"(conversational adj2 (bot* or agent* or assistant* or avatar*)).ti,ab,id."
+23,"(digital adj2 (bot* or agent* or assistant* or avatar*)).ti,ab,id."
+24,or/19-23
+25,"(""just in time adaptive intervention*"" or JITAI or adaptive intervention*).ti,ab,id."
+26,"(""ecological momentary"" or ""momentary assessment*"" or ""experience sampling"").ti,ab,id."
+27,"(mobile sensor* or mobile sensing or passive sensor* or passive sensing).ti,ab,id."
+28,"digital phenotyp*.ti,ab,id."
+29,or/25-28
+30,15 or 18 or 24 or 29
+31,clinical trials/
+32,exp randomized controlled trials/
+33,placebo/
+34,experiment controls/
+35,between groups design/
+36,Treatment Effectiveness Evaluation/
+37,"(random* or sham or placebo*).ti,ab,id."
+38,"((tripl* or trebl*) adj (blind* or dumm* or mask*)).ti,ab,id."
+39,"((singl* or doubl*) adj (blind* or dumm* or mask*)).ti,ab,id."
+40,"(control* adj3 (study or studies or trial* or group* or condition$1 or design*)).ti,ab,id."
+41,"((compare* or compari* or comparat*) adj4 (study or studies or trial* or group* or design* or condition$1)).ti,ab,id."
+42,"(Nonrandom* or non random* or non-random* or quasi-random* or quasirandom*).ti,ab,id."
+43,"(assigned or allocated).ti,ab."
+44,"(open-label adj5 (study or studies or trial*)).ti,ab,id."
+45,"((equivalence or superiority or non-inferiority or noninferiority) adj3 (study or studies or trial*)).ti,ab,id."
+46,"(pragmatic adj1 (study or studies)).ti,ab,id."
+47,"((pragmatic or practical) adj3 trial*).ti,ab,id."
+48,"((quasiexperimental or quasi-experimental) adj3 (study or studies or trial*)).ti,ab,id."
+49,"(phase adj3 (II or ""2"") adj3 (study or studies or trial*)).ti,ab,id."
+50,"(phase adj3 (III or ""3"") adj3 (study or studies or trial*)).ti,ab,id."
+51,"(phase adj3 (IV or ""4"") adj3 (study or studies or trial*)).ti,ab,id."
+52,or/31-51
+53,exp anxiety/
+54,exp Anxiety Disorders/
+55,exp Obsessive Compulsive Disorder/
+56,"exp ""stress and trauma related disorders""/"
+57,"anxiety.ti,ab,id."
+58,"panic.ti,ab,id."
+59,"(phobia* or agoraphobia).ti,ab,id."
+60,"(post-traumatic stress or posttraumatic stress).ti,ab,id."
+61,"obsessive-compulsive.ti,ab,id."
+62,or/53-61
+63,exp Bipolar Disorder/
+64,"((bipolar or bi-polar or mania or manic*) adj3 (symptom* or diagnos* or disorder* or episode* or syndrom* or treat* or prevent* or interven* or relapse* or remission or remit* or subthreshold or sub-threshold or sub-syndrom* or subsyndrom* or prodrom*)).ti,ab,id."
+65,or/63-64
+66,depression (emotion)/
+67,major depression/
+68,dysthymic disorder/
+69,endogenous depression/
+70,reactive depression/
+71,recurrent depression/
+72,treatment resistant depression/
+73,affective disorders/
+74,persistent depressive disorder/
+75,seasonal affective disorder/
+76,"depression.ti,ab,id."
+77,(depressive adj1 disorder*).id.
+78,"(depress* adj3 (symptom* or diagnos* or disorder* or episode* or syndrom* or treat* or prevent* or interven* or relapse* or remission or remit* or subthreshold or sub-threshold or sub-syndrom* or subsyndrom* or prodrom*)).ti,ab."
+79,or/66-78
+80,exp eating disorders/
+81,"((eating adj3 disorder*) or binge eating or bulimi* or anorexi*).ti,ab,id."
+82,or/80-81
+83,exp Psychosis/
+84,exp hallucinations/
+85,Delusions/
+86,Paranoia/
+87,"(psychotic adj1 disorder*).ab,ti,id."
+88,"(psychosis or schizophrenia or delusion* or hallucination*).ti,ab,id."
+89,or/83-88
+90,"early intervention*.ti,ab,id."
+91,"(early onset or recent onset or (prevent* adj3 onset)).ti,ab,id."
+92,"(sub-threshold or subthreshold).ti,ab,id."
+93,"(sub-syndrom* or subsyndrom*).ti,ab,id."
+94,"indicat* prevention.ti,ab,id."
+95,"select* prevention.ti,ab,id."
+96,"(targeted prevention or targeted intervention*).ti,ab,id."
+97,"(universal prevention or universal intervention*).ti,ab,id."
+98,"relapse prevention.ti,ab,id."
+99,"(prevention program* or prevention intervention*).ti,ab,id."
+100,Primary Mental Health Prevention/
+101,Early Intervention/
+102,"(first hospitaliz* or first hospitalis*).ti,ab,id."
+103,"(recent hospitaliz* or recent hospitalis*).ti,ab,id."
+104,"(initial hospitaliz* or initial hospitalis*).ti,ab,id."
+105,"(first admission or first admitted).ti,ab,id."
+106,"(recent admission or recent* admitted).ti,ab,id."
+107,"(initial admission or initial* admitted).ti,ab,id."
+108,"first episode.ti,ab,id."
+109,"co-morbid disorder*.ti,ab,id."
+110,Comorbidity/
+111,"(comorbidity or co-morbidity).ti,ab,id."
+112,"co-occur*.ti,ab,id."
+113,"(prodromal or prodrome).ti,ab,id."
+114,"(high risk or high-risk).ti,ab,id."
+115,"transition*.ti,ab,id."
+116,or/90-115
+117,89 and 116
+118,"((first or early or initial) adj3 (psychotic or psychosis or schizophreni*)).ti,ab,id."
+119,"(first episode adj3 (psychotic or schizophrenic)).ti,ab,id."
+120,"pre-psychotic.ti,ab,id."
+121,or/118-120
+122,117 or 121
+123,substance use disorder/
+124,"exp ""alcohol use disorder""/"
+125,cannabis use disorder/
+126,exp drug abuse/
+127,drug dependency/
+128,exp inhalant abuse/
+129,"exp ""opioid use disorder""/"
+130,drug usage/
+131,"exp ""alcohol use""/"
+132,cannabis use/
+133,exp intravenous drug usage/
+134,prescription drug misuse/
+135,drug abstinence/
+136,sobriety/
+137,drug withdrawal/
+138,drug addiction/
+139,opioid withdrawal/
+140,substance use prevention/
+141,"((substance* or drug* or alcohol or opioid* or opiate* or narcotic* or heroin or cannabis or marijuana or inhalant or stimulant* or amphetamine* or methamphetamine*) adj2 (abuse or misuse or dependence or disorder*)).ti,ab,id."
+142,"substance use.ti,ab,id."
+143,or/123-142
+144,suicide prevention/ or suicide prevention centers/
+145,exp self-destructive behavior/
+146,suicidality/
+147,Suicidology/
+148,"(suicid* or self-harm* or selfharm*).ti,ab,id."
+149,or/144-148
+150,62 or 65 or 79 or 82 or 122 or 143 or 149
+151,early adolescence/
+152,late adolescence/
+153,emerging adulthood/
+154,students/ or business students/ or classmates/ or college graduates/ or exp college students/ or dental students/ or graduate students/ or high school graduates/ or high school students/ or international students/ or junior high school students/ or law students/ or medical students/ or postgraduate students/ or special education students/ or transfer students/ or vocational school students/ or middle school student/
+155,"(juvenile* or underage* or under-age* or teen* or youth* or adolescen* or youngster* or minors).ab,ti."
+156,"((young adj2 m#n) or (young adj2 male*) or (young adj2 adult*) or (young adj2 wom#n) or (young adj2 female*) or (young adj2 people) or (young adj2 individual*) or (young adj2 patient*) or (young adj2 participant*) or young person* or emerging adult* or (early adj1 adult*)).ab,ti."
+157,"(undergraduate* or (college adj2 student*) or (university adj2 student*) or (highschool adj2 student*) or (high-school adj2 student*) or (secondary adj2 student*) or (college adj2 freshm#n) or (college adj2 senior*) or (college adj2 junior*) or (college adj2 graduat*) or (university adj2 graduat*) or (school adj2 graduat*)).ab,ti."
+158,or/151-157
+159,30 and 52 and 150 and 158

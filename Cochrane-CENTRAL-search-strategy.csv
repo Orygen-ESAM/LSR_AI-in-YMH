@@ -1,0 +1,94 @@
+Cochrane CENTRAL,
+,
+LINE,TERMS
+#1,MeSH descriptor: [Artificial Intelligence] explode all trees
+#2,MeSH descriptor: [Machine Learning] explode all trees
+#3,MeSH descriptor: [User-Computer Interface] explode all trees
+#4,MeSH descriptor: [Generative Artificial Intelligence] this term only
+#5,MeSH descriptor: [Natural Language Processing] this term only
+#6,"(artificial intelligence):ti,ab,kw"
+#7,"(machine learning):ti,ab,kw"
+#8,"((AI NEXT algorithm*) or (ML NEXT algorithm*)):ti,ab,kw"
+#9,"(((deep or supervised or unsupervised) NEXT learning)):ti,ab,kw"
+#10,"((rule-based or expert or recommender or “decision support”) NEXT/2 system*):ti,ab,kw"
+#11,"((large language NEXT model*) or LLM):ti,ab,kw"
+#12,"((natural language NEXT process*) or NLP or (natural language NEXT detect*) or (natural language NEXT identifi*)):ti,ab,kw"
+#13,{Or #1-#12}
+#14,"(chatbot* or chat-bot* or (conversational NEXT agent*)):ti,ab,kw"
+#15,"(chat-GPT or chatgpt or GPT4 or GPT-4 or GPT3 or GPT-3 or (generative NEXT pre-train* transformer)):ti,ab,kw"
+#16,#14 or #15
+#17,"(intelligent NEXT/2 (bot* or agent* or assistant* or avatar* or system)):ti,ab,kw"
+#18,"(social NEXT/2 (bot* or agent* or assistant* or avatar*)):ti,ab,kw"
+#19,"(virtual NEXT/2 (bot* or agent* or assistant* or avatar*)):ti,ab,kw"
+#20,"(conversational NEXT/2 (bot* or agent* or assistant* or avatar*)):ti,ab,kw"
+#21,"(digital NEXT/2 (bot* or agent* or assistant* or avatar*)):ti,ab,kw"
+#22,{OR #17-#21}
+#23,"((just in time adaptive NEXT intervention*) or JITAI or (adaptive NEXT intervention*)):ti,ab,kw"
+#24,"(ecological momentary or (momentary NEXT assessment*) or experience sampling):ti,ab,kw"
+#25,"((mobile NEXT sensor*) or mobile sensing or (passive NEXT sensor*) or passive sensing):ti,ab,kw"
+#26,"(digital NEXT phenotyp*):ti,ab,kw"
+#27,{OR #23-#26}
+#28,#27 OR #22 OR #16 OR #13
+#29,MeSH descriptor: [Anxiety] this term only
+#30,MeSH descriptor: [Anxiety Disorders] explode all trees
+#31,MeSH descriptor: [Trauma and Stressor Related Disorders] explode all trees
+#32,"(anxiety or panic or phobia or agoraphobia or post-traumatic stress or posttraumatic stress or obsessive-compulsive):ti,ab,kw"
+#33,{OR #29-#32}
+#34,MeSH descriptor: [Bipolar and Related Disorders] explode all trees
+#35,MeSH descriptor: [Cyclothymic Disorder] this term only
+#36,MeSH descriptor: [Mood Disorders] this term only
+#37,"((bipolar or bi-polar or mania or manic*) NEXT/3 (symptom* or diagnos* or disorder* or episode* or syndrom* or treat* or prevent* or interven* or relapse* or remission or remit* or subthreshold or sub-threshold or sub-syndrom* or subsyndrom* or prodrom*)):ti,ab,kw"
+#38,{OR #34-#37}
+#39,MeSH descriptor: [Depression] this term only
+#40,MeSH descriptor: [Mood Disorders] this term only
+#41,MeSH descriptor: [Depressive Disorder] this term only
+#42,MeSH descriptor: [Major Depressive Disorder] this term only
+#43,MeSH descriptor: [Dysthymic Disorder] this term only
+#44,MeSH descriptor: [Seasonal Affective Disorder] this term only
+#45,"MeSH descriptor: [Depressive Disorder, Treatment-Resistant] this term only"
+#46,"(depression):ti,ab,kw"
+#47,"(depress* NEXT/3 (symptom* or diagnos* or disorder* or episode* or syndrom* or treat* or prevent* or interven* or relapse* or remission or remit* or subthreshold or sub-threshold or sub-syndrom* or subsyndrom* or prodrom*)):ti,ab,kw"
+#48,{OR #39-#47}
+#49,MeSH descriptor: [Feeding and Eating Disorders] explode all trees
+#50,"((eating NEXT/3 disorder*) or binge eating or bulimi* or anorexi*):ti,ab,kw"
+#51,{OR #49-#50}
+#52,MeSH descriptor: [Psychotic Disorders] explode all trees
+#53,MeSH descriptor: [Schizophrenia] explode all trees
+#54,MeSH descriptor: [Paranoid Disorders] this term only
+#55,MeSH descriptor: [Delusions] this term only
+#56,MeSH descriptor: [Hallucinations] this term only
+#57,"(psychotic NEXT/1 disorder*):ti,ab,kw"
+#58,"(psychosis or schizophrenia or delusion* or hallucination*):ti,ab,kw"
+#59,{OR #52-#48}
+#60,MeSH descriptor: [Substance-Related Disorders] this term only
+#61,MeSH descriptor: [Alcohol-Related Disorders] explode all trees
+#62,MeSH descriptor: [Amphetamine-Related Disorders] this term only
+#63,MeSH descriptor: [Cocaine-Related Disorders] this term only
+#64,MeSH descriptor: [Drug Overdose] explode all trees
+#65,MeSH descriptor: [Inhalant Abuse] this term only
+#66,MeSH descriptor: [Marijuana Abuse] this term only
+#67,MeSH descriptor: [Narcotic-Related Disorders] explode all trees
+#68,MeSH descriptor: [Phencyclidine Abuse] this term only
+#69,"MeSH descriptor: [Psychoses, Substance-Induced] this term only"
+#70,"MeSH descriptor: [Substance Abuse, Intravenous] this term only"
+#71,"MeSH descriptor: [Substance Abuse, Oral] this term only"
+#72,MeSH descriptor: [Substance Withdrawal Syndrome] explode all trees
+#73,MeSH descriptor: [Drinking Behavior] explode all trees
+#74,MeSH descriptor: [Drug-Seeking Behavior] this term only
+#75,MeSH descriptor: [Marijuana Use] explode all trees
+#76,MeSH descriptor: [Recreational Drug Use] this term only
+#77,MeSH descriptor: [Drug Misuse] explode all trees
+#78,"((substance* or drug* or alcohol or opioid* or opiate* or narcotic* or heroin or cannabis or marijuana or inhalant or stimulant* or amphetamine* or methamphetamine*) NEXT/2 (""use"" or ""using"" or ""user"" or abuse or misuse or dependence or disorder* or addict*)):ti,ab,kw"
+#79,{OR #60-#78}
+#80,MeSH descriptor: [Self-Injurious Behavior] explode all trees
+#81,"(suicid* or self-harm* or selfharm):ti,ab,kw"
+#82,{OR #80-#81}
+#83,#82 OR #79 OR #59 OR #51 OR #48 OR #38 OR #33
+#84,MeSH descriptor: [Adolescent] this term only
+#85,MeSH descriptor: [Young Adult] this term only
+#86,MeSH descriptor: [Students] explode all trees
+#87,"(juvenile* or underage* or under-age* or teen* or youth* or adolescen* or youngster* or minors or pediatric* or paediatric*):ti,ab,kw"
+#88,"((young NEXT/2 m#n) or (young NEXT/2 male*) or (young NEXT/2 adult*) or (young NEXT/2 wom#n) or (young NEXT/2 female*) or (young NEXT/2 people) or (young NEXT/2 individual*) or (young NEXT/2 patient*) or (young NEXT/2 participant*) or young person* or emerging adult* or (early NEXT/1 adult*)):ti,ab,kw"
+#89,"(undergraduate* or (college NEXT/2 student*) or (university NEXT/2 student*) or (highschool NEXT/2 student*) or (high-school NEXT/2 student*) or (secondary NEXT/2 student*) or (college NEXT/2 freshm#n) or (college NEXT/2 senior*) or (college NEXT/2 junior*) or (college NEXT/2 graduat*) or (university NEXT/2 graduat*) or (school NEXT/2 graduat*)):ti,ab,kw"
+#90,{OR #84-#89}
+#91,#90 AND #83 AND #28
